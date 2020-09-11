@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.1",
     "bootstrap": "^4.4.1",
-    "http-proxy": "^1.18.0",
+    "http-proxy": "^1.18.1",
     "materialize": "^1.0.0",
     "materialize-css": "^1.0.0-rc.2",
     "middleware": "^1.0.0",
